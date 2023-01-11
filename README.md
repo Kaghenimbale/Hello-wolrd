@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  <h3><b>Hello Microverse README Template</b></h3>
-
 </div>
 
 
