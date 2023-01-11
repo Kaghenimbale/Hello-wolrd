@@ -35,7 +35,7 @@
 
 In this project, I set up a "Hello world" repository. The goal here is to master all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
-**[Hello_World]** is a...
+**[Hello_World]** is a simple project that display the hello world! message on the browser
 
 ## 🛠 Built With <a name="built-with"> Html and Css</a>
 
@@ -61,7 +61,7 @@ In this project, I set up a "Hello world" repository. The goal here is to master
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+>
 
 - **[Understand the concept of version control]**
 - **[Write descriptive, easy to understand commit messages]**
@@ -141,15 +141,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+This project has not been deployed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +149,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+>
 
 👤 **Author1**
 
@@ -172,11 +164,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Styling the Project]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,8 +210,7 @@ Thank you Microverse for preparing this project! clapclapclap
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
